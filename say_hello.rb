@@ -1,2 +1,2 @@
 def say_hello(name = "Kent Beck")
-  end
+  puts "Hello #{name}"
